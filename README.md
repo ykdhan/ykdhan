@@ -1,5 +1,6 @@
-- 👋 YK, a developer
+👋 
 
-- ⭐ BTC, ETH, HBAR, GRT
+Hi, I am YK. A developer.
+You can find me anywhere with `@ykdhan`.
 
-`@ykdhan`
+⭐ BTC, ETH, HBAR, GRT
