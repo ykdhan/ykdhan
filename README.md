@@ -10,6 +10,7 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Three](https://img.shields.io/badge/Three-000000?style=flat&logo=threedotjs&logoColor=white)
 ![Node](https://img.shields.io/badge/Node-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 <br/><br/>
 
