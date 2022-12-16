@@ -1,6 +1,7 @@
-👋 
+## 👋
 
-Hi, I am YK. A developer.
-You can find me anywhere with `@ykdhan`.
+I develop Web and App.
 
-⭐ BTC, ETH, HBAR, GRT
+Find me anywhere with `@ykdhan`.
+
+All the glory to BTC.
