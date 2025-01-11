@@ -14,8 +14,7 @@ Mobile
 ![Android](https://img.shields.io/badge/Android-50af54?logo=android&logoColor=white)
 
 Style/Animation
-![Tailwind](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss)
-![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%0F172A.svg?logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-38bdf8.svg?logo=tailwind-css&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)
 ![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff)
 
