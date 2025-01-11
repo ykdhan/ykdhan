@@ -1,12 +1,12 @@
 **👋 Find me anywhere with `@ykdhan`**
 
 Web
-![React](https://img.shields.io/badge/React-159eca?style=flat&logo=react&logoColor=17191e)
-[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)]
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue-35495e?style=flat&logo=vue.js&logoColor=3fb280)
-![Nuxt](https://img.shields.io/badge/Nuxt-020420?style=flat&logo=nuxt.js&logoColor=02dc81)
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?logo=ruby-on-rails&logoColor=white)
-![Node](https://img.shields.io/badge/Node-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?logo=nuxt&logoColor=#00DC82)
+![Rails](https://img.shields.io/badge/Rails-%23CC0000.svg?logo=ruby-on-rails&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
 
 Mobile
 ![React Native](https://img.shields.io/badge/React%20Native-159eca?style=flat&logo=react&logoColor=17191e)
