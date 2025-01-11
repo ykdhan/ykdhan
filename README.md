@@ -5,7 +5,7 @@ Web
 ![Next](https://img.shields.io/badge/Next-000000?style=flat&logo=next.js&logoColor=d7d7d7)
 ![Vue](https://img.shields.io/badge/Vue-35495e?style=flat&logo=vue.js&logoColor=3fb280)
 ![Nuxt](https://img.shields.io/badge/Nuxt-020420?style=flat&logo=nuxt.js&logoColor=02dc81)
-![Ruby](https://img.shields.io/badge/Ruby-cc0000?style=flat&logo=ruby&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?logo=ruby-on-rails&logoColor=white)
 ![Node](https://img.shields.io/badge/Node-339933?style=flat&logo=nodedotjs&logoColor=white)
 
 Mobile
@@ -20,6 +20,7 @@ Style/Animation
 Language
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7e018?style=flat&logo=javascript&logoColor=black)
+![Ruby](https://img.shields.io/badge/Ruby-cc0000?style=flat&logo=ruby&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
