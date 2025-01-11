@@ -2,7 +2,7 @@
 
 Web
 ![React](https://img.shields.io/badge/React-159eca?style=flat&logo=react&logoColor=17191e)
-![Next](https://img.shields.io/badge/Next-000000?style=flat&logo=next.js&logoColor=d7d7d7)
+[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)]
 ![Vue](https://img.shields.io/badge/Vue-35495e?style=flat&logo=vue.js&logoColor=3fb280)
 ![Nuxt](https://img.shields.io/badge/Nuxt-020420?style=flat&logo=nuxt.js&logoColor=02dc81)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?logo=ruby-on-rails&logoColor=white)
