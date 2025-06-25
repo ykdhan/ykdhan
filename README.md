@@ -26,5 +26,6 @@ Language
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)
 
 Other
+![Supabase](https://img.shields.io/badge/Supabase-121212?logo=supabase&logoColor=3ECF8E)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
