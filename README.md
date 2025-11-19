@@ -7,6 +7,7 @@ Web
 ![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?logo=nuxt&logoColor=#00DC82)
 ![Rails](https://img.shields.io/badge/Rails-%23CC0000.svg?logo=ruby-on-rails&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-4b9741?logo=node.js&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098?logo=graphql&logoColor=white)
 
 Mobile
 ![React Native](https://img.shields.io/badge/React%20Native-159eca?style=flat&logo=react&logoColor=17191e)
